@@ -107,7 +107,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Image(image: AssetImage(recipe.imageUrl)),
             // 5
             const SizedBox(
-              height: 14.0,
+              height: 28.0,
             ),
             // 6
             Text(
